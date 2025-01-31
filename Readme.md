@@ -1,3 +1,8 @@
+-=(TurkeyShoot_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+____
 # [Turkey Shoot - The Day They Took Over](https://www.arcade-museum.com/game_detail.php?game_id=10222) for [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer/)
 
 ![](doc/logo.png)
